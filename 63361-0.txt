@@ -3743,9 +3743,8 @@ all understanding.
 
 The moon shone fitfully into the wood; shone fitfully because wild
 clouds were hurrying across the sky at intervals, so that the feeble
-radiance could not even pierce, as it might have done, the tender
-shadows of the forest that autumn gales had not yet stripped of its
-golden glory.
+rad3, the tender shadows of the forest that autumn gales had not yet
+stripped of its golden glory.
 
 At the foot of the dell two figures stood leaning against the gate that
 led from the wood on to the undulating ground beyond.
